@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="700" viewBox="0 0 1400 700" font-family="Poppins, Montserrat, -apple-system, Segoe UI, sans-serif">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#55267E"/><stop offset="1" stop-color="#622C91"/></linearGradient></defs>
+  <rect width="1400" height="700" fill="url(#bg)"/>
+  <circle cx="1200" cy="80" r="240" fill="#FFFFFF" opacity="0.04"/>
+  <circle cx="180" cy="640" r="300" fill="#FFFFFF" opacity="0.04"/>
+  <text x="80" y="140" font-size="26" font-weight="600" fill="#C9B8E8" letter-spacing="3">RETURNONTALENT AI</text>
+  <text x="78" y="240" font-size="56" font-weight="700" fill="#FFFFFF">The retention engine,</text>
+  <text x="78" y="310" font-size="56" font-weight="700" fill="#FFFFFF">built with <tspan fill="#2FCD71">AI Singapore</tspan></text>
+  <text x="80" y="378" font-size="23" font-weight="400" fill="#E4DCF2">Internal Mobility and the Retention pool are live today.</text>
+  <text x="80" y="412" font-size="23" font-weight="400" fill="#E4DCF2">Four AI modules follow — attrition, hidden talent, sentiment, executive summary.</text>
+  <g font-size="20" font-weight="600">
+    <rect x="80" y="466" width="340" height="60" rx="12" fill="#2FCD71"/>
+    <text x="96" y="504" fill="#FFFFFF">Today · Internal Mobility</text>
+    <text x="96" y="522" font-size="13" font-weight="400" fill="#E0F5E8">+ Retention pool</text>
+    <rect x="460" y="466" width="220" height="60" rx="12" fill="#FFFFFF" opacity="0.12"/><text x="476" y="504" fill="#FFFFFF">M1 · Attrition</text>
+    <rect x="720" y="466" width="260" height="60" rx="12" fill="#FFFFFF" opacity="0.12"/><text x="736" y="504" fill="#FFFFFF">M2 · Hidden talent</text>
+    <rect x="1020" y="466" width="220" height="60" rx="12" fill="#FFFFFF" opacity="0.12"/><text x="1036" y="504" fill="#FFFFFF">M3 · Sentiment</text>
+    <rect x="80" y="546" width="220" height="60" rx="12" fill="#FFFFFF" opacity="0.12"/><text x="96" y="584" fill="#FFFFFF">M4 · Summary</text>
+  </g>
+  <g stroke="#FFFFFF" stroke-width="4" opacity="0.5"><line x1="425" y1="496" x2="455" y2="496"/><line x1="685" y1="496" x2="715" y2="496"/><line x1="985" y1="496" x2="1015" y2="496"/></g>
+  <text x="80" y="650" font-size="19" font-weight="400" fill="#C9B8E8">Built with AI Singapore — the national AI initiative · by <tspan fill="#116dff">WeLinkTalent</tspan></text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" font-family="Poppins, Montserrat, -apple-system, Segoe UI, sans-serif">
+  <rect width="1200" height="675" rx="20" fill="#FFFFFF" stroke="#EFECF9" stroke-width="3"/>
+  <text x="60" y="72" font-size="34" font-weight="700" fill="#55267E">Modular by design</text>
+  <text x="60" y="106" font-size="19" font-weight="400" fill="#8F8F8F">Start with what is live — then add modules as they launch. Same engine, same data foundation.</text>
+  <rect x="60" y="150" width="340" height="440" rx="16" fill="#F6F3FB" stroke="#2FCD71" stroke-width="3"/>
+  <rect x="60" y="150" width="340" height="64" rx="16" fill="#2FCD71"/><text x="80" y="190" font-size="22" font-weight="700" fill="#FFFFFF">Today</text>
+  <text x="80" y="232" font-size="16" font-weight="600" fill="#1F7A45">Live now</text>
+  <g font-size="17" fill="#33343F"><text x="80" y="280">Internal Mobility process</text><text x="80" y="306">Retention pool</text></g>
+  <g font-size="15" fill="#8F8F8F"><text x="80" y="360">Move talent internally</text><text x="80" y="382">Hold onto critical people</text></g>
+  <rect x="80" y="520" width="300" height="44" rx="22" fill="#EFECF9"/><text x="230" y="548" font-size="16" font-weight="600" fill="#55267E" text-anchor="middle">Start here</text>
+  <rect x="430" y="150" width="340" height="440" rx="16" fill="#F6F3FB" stroke="#EFECF9" stroke-width="3"/>
+  <rect x="430" y="150" width="340" height="64" rx="16" fill="#55267E"/><text x="450" y="190" font-size="22" font-weight="700" fill="#FFFFFF">Add a module</text>
+  <g font-size="17" fill="#33343F"><text x="450" y="280">M1 · Attrition</text><text x="450" y="306">M2 · Hidden talent</text></g>
+  <g font-size="15" fill="#8F8F8F"><text x="450" y="360">Launching Q1 2027</text></g>
+  <rect x="450" y="520" width="300" height="44" rx="22" fill="#EFECF9"/><text x="600" y="548" font-size="16" font-weight="600" fill="#55267E" text-anchor="middle">Add a module</text>
+  <rect x="800" y="150" width="340" height="440" rx="16" fill="#55267E" stroke="#622C91" stroke-width="3"/>
+  <rect x="800" y="150" width="340" height="64" rx="16" fill="#622C91"/><text x="820" y="190" font-size="22" font-weight="700" fill="#FFFFFF">Full Package</text>
+  <g font-size="16" fill="#E4DCF2"><text x="820" y="270">M1 · Attrition</text><text x="820" y="300">M2 · Hidden talent</text><text x="820" y="330">M3 · Sentiment</text><text x="820" y="360">M4 · Executive summary</text></g>
+  <g font-size="15" fill="#C9B8E8"><text x="820" y="414">From early attrition signal</text><text x="820" y="436">to board-ready report</text></g>
+  <rect x="820" y="520" width="300" height="44" rx="22" fill="#2FCD71"/><text x="970" y="548" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">Full retention layer</text>
+  <text x="60" y="630" font-size="17" fill="#8F8F8F">Adding the next module is an activation, not a re-implementation.</text>
+</svg>

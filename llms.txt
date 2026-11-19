@@ -1,0 +1,47 @@
+# ReturnOnTalent AI
+
+> ReturnOnTalent AI turns retention, mobility and sentiment into decisions you can act on months earlier — four AI modules built with AI Singapore, every score with its proof.
+
+## About ReturnOnTalent AI
+
+ReturnOnTalent AI is a retention intelligence layer built on top of ReturnOnTalent, the retention platform for the talent a company already employs. It is not an ATS and not a job board. It sits alongside an existing HRMS and adds four AI modules most HR systems do not cover: attrition prediction, hidden-talent identification, employee sentiment and an executive summary — every score traceable to its source.
+
+Typical readers: CHROs, Heads of People Analytics, HR transformation leads, CFOs and COOs; product and engineering readers evaluating the roadmap.
+
+## Key pages
+
+- [ReturnOnTalent AI (this repository)](https://returnontalent.github.io/returnontalent-ai/)
+- [ReturnOnTalent AI — feature page](https://www.returnontalent.io/ai-features)
+- [ReturnOnTalent — home](https://www.returnontalent.io/)
+- [The Evidence](https://www.returnontalent.io/the-evidence)
+- [Contact](https://www.returnontalent.io/contact-us)
+
+## Modules
+
+- [Attrition Prediction](https://returnontalent.github.io/returnontalent-ai/docs/modules.html) — a score per employee, with risk bands and reasons, so you see risk before the resignation.
+- [Hidden Talent](https://returnontalent.github.io/returnontalent-ai/docs/modules.html) — a view of performance and potential mapped to career intent, so you hire from inside first.
+- [Sentiment](https://returnontalent.github.io/returnontalent-ai/docs/modules.html) — a sentiment index that separates what people feel from what the environment causes.
+- [Executive Summary](https://returnontalent.github.io/returnontalent-ai/docs/modules.html) — one auditable summary uniting attrition, mobility and sentiment.
+
+## Roadmap
+
+- Live today: the Internal Mobility process and the Retention pool.
+- Launching Q1 2027: Attrition Prediction and Hidden Talent Identification.
+- Then: Sentiment Analysis (stand-alone) and the Executive Report, with enterprise controls — single sign-on, multi-tenant and usage-based billing.
+
+## Frequently asked questions
+
+### Is ReturnOnTalent AI available today?
+The core engine has been delivered in partnership with AI Singapore; the product is not yet released. WeLinkTalent is now productising it and opening a small number of pilots.
+
+### Who built the ReturnOnTalent retention engine?
+WeLinkTalent co-developed the core engine with AI Singapore's AI Apprenticeship Programme (AIAP), Industry track, Batch 22. The intellectual property belongs to WeLinkTalent Pte Ltd.
+
+### Does ReturnOnTalent AI replace our HRMS?
+No. It sits alongside your HRMS and adds the retention layer those systems do not cover.
+
+### Is employee data safe?
+ReturnOnTalent is designed to comply with PDPA and GDPR. HR governs the process, and every score carries its source evidence.
+
+### What does "no score without proof" mean?
+Every score cites the field and the evidence behind it. A figure can be challenged and traced to its source — the difference between a dashboard and a decision.

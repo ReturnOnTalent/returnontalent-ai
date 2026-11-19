@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" font-family="Poppins, Montserrat, -apple-system, Segoe UI, sans-serif">
+  <rect width="1200" height="675" rx="20" fill="#FFFFFF" stroke="#EFECF9" stroke-width="3"/>
+  <rect width="1200" height="120" rx="20" fill="#55267E"/><rect y="70" width="1200" height="50" fill="#55267E"/>
+  <rect x="48" y="34" width="88" height="52" rx="10" fill="#2FCD71"/><text x="92" y="69" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="middle">M2</text>
+  <text x="160" y="62" font-size="32" font-weight="700" fill="#FFFFFF">Hidden Talent Identification</text>
+  <text x="160" y="100" font-size="19" font-weight="400" fill="#D8CCEC">Who is being missed?</text>
+  <g><rect x="880" y="30" width="286" height="42" rx="21" fill="#2FCD71"/><text x="1023" y="58" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">LAUNCHING Q1 2027</text></g>
+  
+  <g font-size="22" font-weight="600" fill="#33343F"><text x="60" y="190">Agility: the cheapest hire is on your payroll</text></g>
+  <g font-size="18" font-weight="400" fill="#8F8F8F"><text x="60" y="222">A nine-dimension read of performance and potential, mapped to each employee's career priorities.</text></g>
+  <text x="60" y="270" font-size="16" font-weight="600" fill="#33343F">Performance →</text>
+  <rect x="620" y="240" width="150" height="90" rx="12" fill="#EFECF9" stroke="#D8CCEC" stroke-width="2"/>
+    <text x="695" y="284" font-size="16" font-weight="600" fill="#33343F" text-anchor="middle">High potential</text>
+    <text x="695" y="308" font-size="13" fill="#8F8F8F" text-anchor="middle">perf 3</text><rect x="790" y="240" width="150" height="90" rx="12" fill="#EFECF9" stroke="#D8CCEC" stroke-width="2"/>
+    <text x="865" y="284" font-size="16" font-weight="600" fill="#33343F" text-anchor="middle">High potential</text>
+    <text x="865" y="308" font-size="13" fill="#8F8F8F" text-anchor="middle">perf 2</text><rect x="960" y="240" width="150" height="90" rx="12" fill="#2FCD71" stroke="#1F7A45" stroke-width="2"/>
+    <text x="1035" y="284" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">High potential</text>
+    <text x="1035" y="308" font-size="13" fill="#FFFFFF" text-anchor="middle">perf 1</text><rect x="620" y="350" width="150" height="90" rx="12" fill="#EFECF9" stroke="#D8CCEC" stroke-width="2"/>
+    <text x="695" y="394" font-size="16" font-weight="600" fill="#33343F" text-anchor="middle">Mid potential</text>
+    <text x="695" y="418" font-size="13" fill="#8F8F8F" text-anchor="middle">perf 3</text><rect x="790" y="350" width="150" height="90" rx="12" fill="#EFECF9" stroke="#D8CCEC" stroke-width="2"/>
+    <text x="865" y="394" font-size="16" font-weight="600" fill="#33343F" text-anchor="middle">Mid potential</text>
+    <text x="865" y="418" font-size="13" fill="#8F8F8F" text-anchor="middle">perf 2</text><rect x="960" y="350" width="150" height="90" rx="12" fill="#EFECF9" stroke="#D8CCEC" stroke-width="2"/>
+    <text x="1035" y="394" font-size="16" font-weight="600" fill="#33343F" text-anchor="middle">Mid potential</text>
+    <text x="1035" y="418" font-size="13" fill="#8F8F8F" text-anchor="middle">perf 1</text><rect x="620" y="460" width="150" height="90" rx="12" fill="#EFECF9" stroke="#D8CCEC" stroke-width="2"/>
+    <text x="695" y="504" font-size="16" font-weight="600" fill="#33343F" text-anchor="middle">Low potential</text>
+    <text x="695" y="528" font-size="13" fill="#8F8F8F" text-anchor="middle">perf 3</text><rect x="790" y="460" width="150" height="90" rx="12" fill="#EFECF9" stroke="#D8CCEC" stroke-width="2"/>
+    <text x="865" y="504" font-size="16" font-weight="600" fill="#33343F" text-anchor="middle">Low potential</text>
+    <text x="865" y="528" font-size="13" fill="#8F8F8F" text-anchor="middle">perf 2</text><rect x="960" y="460" width="150" height="90" rx="12" fill="#EFECF9" stroke="#D8CCEC" stroke-width="2"/>
+    <text x="1035" y="504" font-size="16" font-weight="600" fill="#33343F" text-anchor="middle">Low potential</text>
+    <text x="1035" y="528" font-size="13" fill="#8F8F8F" text-anchor="middle">perf 1</text>
+  <g font-size="18" font-weight="500">
+    <rect x="60" y="560" width="300" height="48" rx="24" fill="#EFECF9"/><text x="210" y="590" text-anchor="middle" fill="#55267E">Career-priority mapping</text>
+    <rect x="380" y="560" width="300" height="48" rx="24" fill="#EFECF9"/><text x="530" y="590" text-anchor="middle" fill="#55267E">Internal opportunity match</text>
+  </g>
+</svg>
