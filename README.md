@@ -1,6 +1,7 @@
 ---
 title: "ReturnOnTalent AI"
 description: "ReturnOnTalent AI turns retention, mobility and sentiment into decisions you can act on months earlier. Four AI modules built with AI Singapore — attrition prediction, hidden talent, sentiment and an executive summary — every score with its proof."
+permalink: /
 ---
 
 ![ReturnOnTalent AI — the retention engine, built with AI Singapore](assets/hero-ai-singapore.png)
