@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" font-family="Poppins, Montserrat, -apple-system, Segoe UI, sans-serif">
+  <rect width="1200" height="675" rx="20" fill="#FFFFFF" stroke="#EFECF9" stroke-width="3"/>
+  <rect width="1200" height="120" rx="20" fill="#55267E"/><rect y="70" width="1200" height="50" fill="#55267E"/>
+  <text x="60" y="70" font-size="34" font-weight="700" fill="#FFFFFF">Roadmap</text>
+  <text x="60" y="102" font-size="19" font-weight="400" fill="#D8CCEC">Live today, then the four AI modules — built with AI Singapore</text>
+
+  <text x="480" y="170" font-size="18" font-weight="600" fill="#55267E" text-anchor="middle">Today</text>
+  <text x="740" y="170" font-size="18" font-weight="600" fill="#55267E" text-anchor="middle">Q1 2027</text>
+  <text x="1000" y="170" font-size="18" font-weight="600" fill="#55267E" text-anchor="middle">Then</text>
+
+  <g stroke="#EFECF9" stroke-width="2" stroke-dasharray="4 6">
+    <line x1="360" y1="150" x2="360" y2="590"/>
+    <line x1="620" y1="150" x2="620" y2="590"/>
+    <line x1="880" y1="150" x2="880" y2="590"/>
+    <line x1="1120" y1="150" x2="1120" y2="590"/>
+  </g>
+
+  <g font-size="17" font-weight="600" fill="#33343F">
+    <text x="60" y="211">Internal Mobility</text>
+    <text x="60" y="269">Retention pool</text>
+    <text x="60" y="327">Attrition Prediction · M1</text>
+    <text x="60" y="385">Hidden Talent · M2</text>
+    <text x="60" y="443">Sentiment Analysis · M3</text>
+    <text x="60" y="501">Executive Report · M4</text>
+    <text x="60" y="559">Enterprise controls</text>
+  </g>
+
+  <rect x="360" y="189" width="760" height="32" rx="8" fill="#2FCD71"/>
+  <rect x="360" y="247" width="760" height="32" rx="8" fill="#2FCD71"/>
+  <rect x="620" y="305" width="240" height="32" rx="8" fill="#55267E"/>
+  <rect x="620" y="363" width="240" height="32" rx="8" fill="#55267E"/>
+  <rect x="880" y="421" width="240" height="32" rx="8" fill="#622C91"/>
+  <rect x="880" y="479" width="240" height="32" rx="8" fill="#622C91"/>
+  <rect x="880" y="537" width="240" height="32" rx="8" fill="#622C91"/>
+
+  <g font-size="15" font-weight="600" fill="#FFFFFF">
+    <text x="480" y="210" text-anchor="middle">Live</text>
+    <text x="480" y="268" text-anchor="middle">Live</text>
+  </g>
+
+  <rect x="60" y="612" width="16" height="16" rx="4" fill="#2FCD71"/>
+  <text x="86" y="625" font-size="15" fill="#33343F">Live today</text>
+  <rect x="220" y="612" width="16" height="16" rx="4" fill="#55267E"/>
+  <text x="246" y="625" font-size="15" fill="#33343F">Launching Q1 2027</text>
+  <rect x="470" y="612" width="16" height="16" rx="4" fill="#622C91"/>
+  <text x="496" y="625" font-size="15" fill="#33343F">Next</text>
+</svg>

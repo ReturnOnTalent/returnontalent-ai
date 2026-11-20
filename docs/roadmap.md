@@ -5,6 +5,8 @@ description: "The ReturnOnTalent AI release roadmap: what is live today, what la
 
 # Roadmap
 
+![ReturnOnTalent AI roadmap — live today, Q1 2027, then](../assets/roadmap-gantt.png)
+
 ## Live today
 
 - **Internal Mobility** process — running in production today.
